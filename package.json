@@ -59,7 +59,7 @@
         "ioredis": "5.0.4",
         "ipaddr.js": "2.0.1",
         "isemail": "3.2.0",
-        "joi": "17.6.0",
+        "joi": "17.7.0",
         "js-yaml": "4.1.0",
         "key-fingerprint": "1.1.0",
         "libbase64": "1.2.1",
