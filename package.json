@@ -84,7 +84,7 @@
         "restify-logger": "2.0.1",
         "saslprep": "1.0.3",
         "seq-index": "1.1.0",
-        "smtp-server": "3.11.0",
+        "smtp-server": "3.13.2",
         "speakeasy": "2.0.0",
         "unix-crypt-td-js": "1.1.4",
         "unixcrypt": "1.1.0",
